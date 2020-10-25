@@ -1,0 +1,10 @@
+{
+  "Name": "MoreInfo",
+  "Author": "Strobe",
+  "Version": "0.1.0",
+  "Description": "Lorem Ipsum",
+  "UniqueID": "Strobe.MoreInfo",
+  "EntryDll": "MoreInfo.dll",
+  "MinimumApiVersion": "3.2.2",
+  "UpdateKeys": []
+}

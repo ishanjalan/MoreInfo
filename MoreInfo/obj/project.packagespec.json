@@ -1,0 +1,45 @@
+﻿{
+  "version": "0.1.0",
+  "restore": {
+    "projectUniqueName": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/MoreInfo.csproj",
+    "projectName": "MoreInfo",
+    "projectPath": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/MoreInfo.csproj",
+    "outputPath": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net452"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "net452": {
+        "projectReferences": {
+          "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/MoreInfo.Framework.csproj": {
+            "projectPath": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/MoreInfo.Framework.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net452": {
+      "dependencies": {
+        "Pathoschild.Stardew.ModBuildConfig": {
+          "target": "Package",
+          "version": "[3.2.2, )"
+        },
+        "System.ValueTuple": {
+          "target": "Package",
+          "version": "[4.5.0, )"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+    }
+  }
+}

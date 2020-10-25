@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d007b008-4dee-4e88-b8cc-0c3b4a87c441" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSON File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MoreInfo.Framework/Context.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MoreInfo/manifest.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MoreInfo.Framework/ObjectDrawInMenuPatch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MoreInfo.Framework/BundleItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MoreInfo/ModEntry.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MoreInfo/manifest.json" />
+        <option value="$PROJECT_DIR$/MoreInfo/MoreInfo.csproj" />
+        <option value="$PROJECT_DIR$/MoreInfo/MoreInfoFramework.cs" />
+        <option value="$PROJECT_DIR$/MoreInfo.Framework/Class1.cs" />
+        <option value="$PROJECT_DIR$/MoreInfo.Framework/MoreInfo.Framework.csproj" />
+        <option value="$PROJECT_DIR$/MoreInfo.Framework/Object_drawInMenu_Patch.cs" />
+        <option value="$PROJECT_DIR$/MoreInfo.Framework/manifest.json" />
+        <option value="$PROJECT_DIR$/MoreInfo.Framework/Context.cs" />
+        <option value="$PROJECT_DIR$/MoreInfo.Framework/BundleItem.cs" />
+        <option value="$PROJECT_DIR$/MoreInfo.Framework/ObjectDrawInMenuPatch.cs" />
+        <option value="$PROJECT_DIR$/MoreInfo/ModEntry.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jE5fGaDhfusHFcUVKtLDYNLdFu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d007b008-4dee-4e88-b8cc-0c3b4a87c441" name="Default Changelist" comment="" />
+      <created>1603356512263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603356512263</updated>
+      <workItem from="1603356517678" duration="17161000" />
+      <workItem from="1603665630930" duration="1769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="407" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1603375999950">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="722" y="407" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1920.1080@0.0.1920.1080" timestamp="1603375999950" />
+    <state x="560" y="246" key="Rider.ProjectTemplateDialog.Size" timestamp="1603357685496">
+      <screen x="0" y="23" width="1920" height="969" />
+    </state>
+    <state x="560" y="246" key="Rider.ProjectTemplateDialog.Size/0.23.1920.969@0.23.1920.969" timestamp="1603357685496" />
+    <state x="469" y="137" key="SettingsEditor" timestamp="1603666559608">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="137" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1603666559608" />
+    <state x="469" y="146" key="SettingsEditor/0.23.1920.969@0.23.1920.969" timestamp="1603357624777" />
+  </component>
+</project>

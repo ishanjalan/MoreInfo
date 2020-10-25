@@ -1,0 +1,8 @@
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/obj/Debug/net452/MoreInfo.Framework.csproj.CoreCompileInputs.cache
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/obj/Debug/net452/MoreInfo.Framework.AssemblyInfoInputs.cache
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/obj/Debug/net452/MoreInfo.Framework.AssemblyInfo.cs
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/obj/Debug/net452/MoreInfo.Framework.csprojAssemblyReference.cache
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/bin/Debug/net452/MoreInfo.Framework.dll
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/bin/Debug/net452/MoreInfo.Framework.pdb
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/obj/Debug/net452/MoreInfo.Framework.dll
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/obj/Debug/net452/MoreInfo.Framework.pdb

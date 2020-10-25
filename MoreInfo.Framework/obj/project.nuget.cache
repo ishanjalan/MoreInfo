@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cGR93yFLg8x3Tpy1UCKSo+Y0lVyGZyerXTiLaVts3IlI5/ITE3dtabkX3Rsvx0w6zNt/EKlQacgoOXeUiO0zpA==",
+  "success": true,
+  "projectFilePath": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/MoreInfo.Framework.csproj",
+  "expectedPackageFiles": [
+    "/Users/ishanjalan/.nuget/packages/pathoschild.stardew.modbuildconfig/3.2.2/pathoschild.stardew.modbuildconfig.3.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

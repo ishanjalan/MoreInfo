@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "Pathoschild.Stardew.ModBuildConfig/3.2.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.Build",
+          "Microsoft.Build.Framework",
+          "Microsoft.Build.Utilities.v4.0",
+          "System.IO.Compression",
+          "System.Web.Extensions"
+        ],
+        "build": {
+          "build/Pathoschild.Stardew.ModBuildConfig.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pathoschild.Stardew.ModBuildConfig/3.2.2": {
+      "sha512": "lBnDMxAMD602ku17jE1Wl1M9qbIAftW60VVI+wH+VTQQixjVA8+oW/rzQSUrKf2OzEzkKt7trV/ZHn6p9YnhKQ==",
+      "type": "package",
+      "path": "pathoschild.stardew.modbuildconfig/3.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/SMAPI.ModBuildConfig.Analyzer.dll",
+        "build/Newtonsoft.Json.dll",
+        "build/Pathoschild.Stardew.ModBuildConfig.targets",
+        "build/SMAPI.ModBuildConfig.dll",
+        "build/SMAPI.Toolkit.CoreInterfaces.dll",
+        "build/SMAPI.Toolkit.dll",
+        "build/find-game-folder.targets",
+        "images/icon.png",
+        "pathoschild.stardew.modbuildconfig.3.2.2.nupkg.sha512",
+        "pathoschild.stardew.modbuildconfig.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "Pathoschild.Stardew.ModBuildConfig >= 3.2.2"
+    ]
+  },
+  "packageFolders": {
+    "/Users/ishanjalan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "0.1.0",
+    "restore": {
+      "projectUniqueName": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/MoreInfo.Framework.csproj",
+      "projectName": "MoreInfo.Framework",
+      "projectPath": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/MoreInfo.Framework.csproj",
+      "packagesPath": "/Users/ishanjalan/.nuget/packages/",
+      "outputPath": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ishanjalan/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "dependencies": {
+          "Pathoschild.Stardew.ModBuildConfig": {
+            "target": "Package",
+            "version": "[3.2.2, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

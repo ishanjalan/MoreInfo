@@ -1,0 +1,49 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/MoreInfo.Framework.csproj": {}
+  },
+  "projects": {
+    "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/MoreInfo.Framework.csproj": {
+      "version": "0.1.0",
+      "restore": {
+        "projectUniqueName": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/MoreInfo.Framework.csproj",
+        "projectName": "MoreInfo.Framework",
+        "projectPath": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/MoreInfo.Framework.csproj",
+        "packagesPath": "/Users/ishanjalan/.nuget/packages/",
+        "outputPath": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ishanjalan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "Pathoschild.Stardew.ModBuildConfig": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

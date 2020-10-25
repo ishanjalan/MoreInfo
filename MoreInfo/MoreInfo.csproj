@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <AssemblyName>MoreInfo</AssemblyName>
+        <RootNamespace>MoreInfo</RootNamespace>
+        <Version>0.1.0</Version>
+        <TargetFramework>net452</TargetFramework>
+        <Platforms>x86</Platforms>
+        <PlatformTarget>x86</PlatformTarget>
+        <EnableHarmony>true</EnableHarmony>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="3.2.2" />
+        <PackageReference Include="System.ValueTuple" Version="4.5.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Properties" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\MoreInfo.Framework\MoreInfo.Framework.csproj" />
+    </ItemGroup>
+
+</Project>

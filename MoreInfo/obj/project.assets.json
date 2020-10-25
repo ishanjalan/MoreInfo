@@ -1,0 +1,171 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "Pathoschild.Stardew.ModBuildConfig/3.2.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.Build",
+          "Microsoft.Build.Framework",
+          "Microsoft.Build.Utilities.v4.0",
+          "System.IO.Compression",
+          "System.Web.Extensions"
+        ],
+        "build": {
+          "build/Pathoschild.Stardew.ModBuildConfig.targets": {}
+        }
+      },
+      "System.ValueTuple/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/portable-net40+sl4+win8+wp8/System.ValueTuple.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/System.ValueTuple.dll": {}
+        }
+      },
+      "MoreInfo.Framework/0.1.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5.2",
+        "dependencies": {
+          "Pathoschild.Stardew.ModBuildConfig": "3.2.2"
+        },
+        "compile": {
+          "bin/placeholder/MoreInfo.Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoreInfo.Framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pathoschild.Stardew.ModBuildConfig/3.2.2": {
+      "sha512": "lBnDMxAMD602ku17jE1Wl1M9qbIAftW60VVI+wH+VTQQixjVA8+oW/rzQSUrKf2OzEzkKt7trV/ZHn6p9YnhKQ==",
+      "type": "package",
+      "path": "pathoschild.stardew.modbuildconfig/3.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/SMAPI.ModBuildConfig.Analyzer.dll",
+        "build/Newtonsoft.Json.dll",
+        "build/Pathoschild.Stardew.ModBuildConfig.targets",
+        "build/SMAPI.ModBuildConfig.dll",
+        "build/SMAPI.Toolkit.CoreInterfaces.dll",
+        "build/SMAPI.Toolkit.dll",
+        "build/find-game-folder.targets",
+        "images/icon.png",
+        "pathoschild.stardew.modbuildconfig.3.2.2.nupkg.sha512",
+        "pathoschild.stardew.modbuildconfig.nuspec"
+      ]
+    },
+    "System.ValueTuple/4.5.0": {
+      "sha512": "okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
+      "type": "package",
+      "path": "system.valuetuple/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net461/System.ValueTuple.dll",
+        "lib/net461/System.ValueTuple.xml",
+        "lib/net47/System.ValueTuple.dll",
+        "lib/net47/System.ValueTuple.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.0/System.ValueTuple.dll",
+        "lib/netstandard1.0/System.ValueTuple.xml",
+        "lib/netstandard2.0/_._",
+        "lib/portable-net40+sl4+win8+wp8/System.ValueTuple.dll",
+        "lib/portable-net40+sl4+win8+wp8/System.ValueTuple.xml",
+        "lib/uap10.0.16299/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net461/System.ValueTuple.dll",
+        "ref/net47/System.ValueTuple.dll",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard2.0/_._",
+        "ref/portable-net40+sl4+win8+wp8/System.ValueTuple.dll",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.valuetuple.4.5.0.nupkg.sha512",
+        "system.valuetuple.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "MoreInfo.Framework/0.1.0": {
+      "type": "project",
+      "path": "../MoreInfo.Framework/MoreInfo.Framework.csproj",
+      "msbuildProject": "../MoreInfo.Framework/MoreInfo.Framework.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "MoreInfo.Framework >= 0.1.0",
+      "Pathoschild.Stardew.ModBuildConfig >= 3.2.2",
+      "System.ValueTuple >= 4.5.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/ishanjalan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "0.1.0",
+    "restore": {
+      "projectUniqueName": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/MoreInfo.csproj",
+      "projectName": "MoreInfo",
+      "projectPath": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/MoreInfo.csproj",
+      "packagesPath": "/Users/ishanjalan/.nuget/packages/",
+      "outputPath": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ishanjalan/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "projectReferences": {
+            "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/MoreInfo.Framework.csproj": {
+              "projectPath": "/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo.Framework/MoreInfo.Framework.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "dependencies": {
+          "Pathoschild.Stardew.ModBuildConfig": {
+            "target": "Package",
+            "version": "[3.2.2, )"
+          },
+          "System.ValueTuple": {
+            "target": "Package",
+            "version": "[4.5.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

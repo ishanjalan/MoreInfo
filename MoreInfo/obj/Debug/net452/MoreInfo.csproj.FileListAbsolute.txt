@@ -1,0 +1,12 @@
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/obj/Debug/net452/MoreInfo.csprojAssemblyReference.cache
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/obj/Debug/net452/MoreInfo.csproj.CoreCompileInputs.cache
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/obj/Debug/net452/MoreInfo.AssemblyInfoInputs.cache
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/obj/Debug/net452/MoreInfo.AssemblyInfo.cs
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/bin/Debug/net452/MoreInfo.dll
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/bin/Debug/net452/MoreInfo.pdb
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/bin/Debug/net452/System.ValueTuple.dll
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/bin/Debug/net452/MoreInfo.Framework.dll
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/bin/Debug/net452/MoreInfo.Framework.pdb
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/obj/Debug/net452/MoreInfo.csproj.CopyComplete
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/obj/Debug/net452/MoreInfo.dll
+/Users/ishanjalan/RiderProjects/MoreInfo/MoreInfo/obj/Debug/net452/MoreInfo.pdb
